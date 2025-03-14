@@ -1,0 +1,31 @@
+_repo: Da-Sassari-a-Cagliari-e-viceversa-b-guida-racconto_75510
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Costa, Enrico
+    birthdate: 1841
+    deathdate: 1909
+    gutenberg_agent_id: '57397'
+    url: http://www.gutenberg.org/2009/agents/57397
+    wikipedia: https://it.wikipedia.org/wiki/Enrico_Costa_(scrittore)
+description: ''
+edition_note: Terza edizione, coll'aggiunta del viaggio in omnibus da Macomer a Bosa.
+gutenberg_issued: '2025-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75510'
+language: it
+pgterms:marc905: 20231201085100costa
+pgterms:marc906: '1902'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+publication_note: '  $aCagliari :$bGiuseppe Dessì, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sardinia (Italy) -- Description and travel'
+- !lcc 'DG'
+- GITenberg
+title: 'Da Sassari a Cagliari e viceversa : $b guida-racconto'
+url: http://www.gutenberg.org/ebooks/75510
